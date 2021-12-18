@@ -1,0 +1,12 @@
+@import "./test.css";
+
+.content {
+  color: red;
+  user-select: none;
+}
+
+.bg-image {
+  display: inline-block;
+  background-image: url("../img/pexels-photo-10358193.jpeg");
+  background-size: contain;
+}
